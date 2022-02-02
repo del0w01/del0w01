@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Automated Software.**
 
-- 🌱 I’m currently learning **Blockchain, nodes, python & automatic software.**
+- 🌱 I’m currently learning **Blockchain, nodes, python.**
 
 - 📫  **del0w01@protonmail.com**
 
