@@ -1,5 +1,5 @@
 <h1 align="center">Yo, wassup, I'm del0w01</h1>
-<h3 align="center">🔩 Amateur developer from Ukraine.</h3>
+<h3 align="center">🔩 Amateur developer from London.</h3>
 
 - 🔭 I’m currently working on **Automated Software.**
 
