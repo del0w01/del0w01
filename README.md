@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain, nodes, python & automatic software.**
 
-- 📫 How to reach me **del0w01@protonmail.com**
+- 📫  **del0w01@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
